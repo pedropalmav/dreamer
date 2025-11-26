@@ -1,0 +1,3 @@
+[submodule "cookie-env"]
+	path = cookie-env
+	url = https://github.com/pedropalmav/cookie-env
