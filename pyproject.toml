@@ -6,6 +6,15 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "cookie-env",
+    "einops>=0.8.2",
+    "elements>=3.20.0",
+    "ipdb>=0.13.13",
+    "matplotlib>=3.10.8",
+    "pandas>=2.3.3",
+    "portal>=3.7.4",
+    "scope>=0.6.3",
+    "torch>=2.9.1",
+    "tqdm>=4.67.1",
 ]
 
 [tool.uv.sources]
